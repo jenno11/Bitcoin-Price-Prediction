@@ -25,12 +25,8 @@ We may also compare to another crypto or the whole crypto market.
 1. Determine the signals we will use and document the formulas
 RSI
 Volume
-Bollinger bands
 Moving Average  - 50,100, 200
-Fibonacci Retracement
-Vortex Indicator 
-MACD 
-Settiment
+
 
 2. Determine 3 Machine Learning models to be used
 
@@ -61,9 +57,8 @@ The use of non-technical indicators to aid in Bitcoin, Ethereum and Avalanche tr
 
 ## Datasets to be used
 
-- API - Yahoo Finance - for daily data over years
-- API - Kraken - Realtime Data Crypto
-- API - XXXXX - Realtime S&P 500 data
+ - Yahoo Finance - for daily data over years
+
 
 
 
