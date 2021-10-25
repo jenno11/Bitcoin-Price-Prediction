@@ -62,8 +62,6 @@ The use of non-technical indicators to aid in Bitcoin, Ethereum and Avalanche tr
 
 ## Conclusion
 
--
-
 Damien
  Asset Class Commodities – Gold – Good correlation
  Asset Class Shares - S&P500 – Strongest correlation
